@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -6,7 +7,7 @@
 
 ---
 
-![](/IQT-CPP_Programming/assets/5h7ir719arzz.jpg)
+![](/assets/5h7ir719arzz.jpg)
 
 ### What is the STL?
 
@@ -101,4 +102,5 @@ As you may have guessed, **std::&lt;library routine&gt;** is how you access stan
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch02_Cpp_STL/2.01_stl-containers-and-streams.md" > Continue to Next Topic </a>
+|[Next Topic](/ch02_Cpp_STL/2.01_stl-containers-and-streams.md)|
+|---|
