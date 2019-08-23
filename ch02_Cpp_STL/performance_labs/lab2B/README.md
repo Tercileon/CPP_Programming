@@ -1,12 +1,14 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
+
 
 ## Lab 2B: Towers of Hanoi
 
 ---
 
-![](/IQT-CPP_Programming/assets/Tower_of_Hanoi.jpeg)
+![](/assets/Tower_of_Hanoi.jpeg)
 
 * You are given a _struct disc, with an int variable. You are also given three stack&lt;disc&gt; towers, source, temp dest. _
 * Read in an _int n from the user, and create n number of discs, with each one's int variable numbered \[0 - n_\]. Load these in descending order to _source_.
@@ -24,4 +26,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch03_Object_Oriented_Programming/README.md" > Continue to Next Topic </a>
+|[Next Topic](/ch03_Object_Oriented_Programming/README.md)|
+|---|
