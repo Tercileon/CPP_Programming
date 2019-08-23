@@ -1,13 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
-
 
 # Lab 1A - Fi Phi Fo Fum
 
 ---
 
-![](/IQT-CPP_Programming/assets/Williegiant.jpg)
+![](/assets/Williegiant.jpg)
 
 * A number is considered to be relatively prime to another if the greatest common denominator of both is 1.
 * **Euler's Totient Function – phi\(n\)** – tallies up all the numbers that are relatively prime to a number n 
@@ -19,6 +19,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch02_Cpp_STL/README.md" > Continue to Next Topic </a>
-
----
+|[Next Topic](/ch02_Cpp_STL/README.md)|
+|---|
