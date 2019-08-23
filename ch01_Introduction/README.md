@@ -1,4 +1,4 @@
-|[Table of Contents](/IQT-CPP_Programming/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
