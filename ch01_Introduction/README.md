@@ -40,6 +40,3 @@ By 1998, the first C++ standard was adopted, which included the Standard Templat
 
 |[Next Topic](/ch01_Introduction/1.01_version-differences.md)|
 |---|
-
----
-
