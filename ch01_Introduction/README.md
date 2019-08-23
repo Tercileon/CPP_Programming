@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/IQT-CPP_Programming/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -6,7 +7,7 @@
 
 ---
 
-![](/IQT-CPP_Programming/assets/75810h1e96t27.jpg)
+![](/assets/75810h1e96t27.jpg)
 
 C++ as we know it was created by **Bjarne Stroustrup**, 1979 as "C with Classes"
 
@@ -37,7 +38,8 @@ By 1998, the first C++ standard was adopted, which included the Standard Templat
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch01_Introduction/1.01_version-differences.md" > Continue to the Training </a>
+|[Next Topic](/ch01_Introduction/1.01_version-differences.md)|
+|---|
 
 ---
 
