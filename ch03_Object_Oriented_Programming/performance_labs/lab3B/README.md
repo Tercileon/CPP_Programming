@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -6,7 +7,7 @@
 
 ---
 
-## ![](/IQT-CPP_Programming/assets/rgvx0Me.jpg)Instructions:
+## ![](/assets/rgvx0Me.jpg)Instructions:
 
 For this lab, you are going to program a mech fighter! Below is all the details you will need to get you started. This lab will be worked upon until we finsh C++.
 
@@ -87,12 +88,13 @@ For this lab, you are going to program a mech fighter! Below is all the details 
 
 There are no rules except for ensuring you have utilized composition and inheritance.
 
-![](/IQT-CPP_Programming/assets/DVa-known-pose.jpg)
+![](/assets/DVa-known-pose.jpg)
 
 ### Additional Useful Information:
 
-![](/IQT-CPP_Programming/assets/objectModell.png)
+![](/assets/objectModell.png)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch04_Overloading_Templates/README.md" > Continue to Next Topic </a>
+|[Next Topic](/ch04_Overloading_Templates/README.md)|
+|---|
