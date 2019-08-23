@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ## Performance Lab 2A
 
@@ -19,4 +20,5 @@ The instructional goal of this lab is to give you practice using the STL. Use _S
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch02_Cpp_STL/2.11_lambda-expressions.md" > Continue to Next Topic </a>
+|[Next Topic](/ch02_Cpp_STL/2.11_lambda-expressions.md)|
+|---|
