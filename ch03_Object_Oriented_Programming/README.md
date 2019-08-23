@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -6,7 +7,7 @@
 
 ---
 
-# ![](/IQT-CPP_Programming/assets/c-plus-plus-like-a-sir.jpg)
+# ![](/assets/c-plus-plus-like-a-sir.jpg)
 
 ## What are Objects, Classes, etc? -- 50,000 Feet
 
@@ -18,8 +19,9 @@
 
 ### But First! A User Type Refresher...
 
-![](/IQT-CPP_Programming/assets/datatypes.png)
+![](/assets/datatypes.png)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch03_Object_Oriented_Programming/3.01_classes.md" > Continue to Next Topic </a>
+|[Next Topic](/ch03_Object_Oriented_Programming/3.01_classes.md)|
+|---|
