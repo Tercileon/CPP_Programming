@@ -33,5 +33,5 @@
 
 ---
 
-|[Next Topic](ch05_Resource_Management/5.01_resources.md)|
+|[Next Topic](/ch05_Resource_Management/5.01_resources.md)|
 |---|
