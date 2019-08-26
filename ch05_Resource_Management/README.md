@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -32,4 +33,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/ch05_Resource_Management/5.01_resources.md" > Continue to Next Topic </a>
+|[Next Topic](ch05_Resource_Management/5.01_resources.md)|
+|---|
